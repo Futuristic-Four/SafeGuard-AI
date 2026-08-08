@@ -1,0 +1,8 @@
+{
+  "name": "SafeGuard AI",
+  "description": "AI-powered personalized financial safety training platform immunizing against digital financial fraud, deepfakes, and social engineering attacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

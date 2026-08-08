@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+  
+  <!-- Outer Shield Glow Background -->
+  <path
+      android:pathData="M60,10 L102,25 V58 C102,83.5 84,103 60,110 C36,103 18,83.5 18,58 V25 Z"
+      android:fillColor="#102A43"/>
+
+  <!-- Shield Gradient Outline -->
+  <path
+      android:pathData="M60,14 L96,27.5 V56.5 C96,79.5 80,97 60,103.5 C40,97 24,79.5 24,56.5 V27.5 Z"
+      android:fillColor="#1D4ED8"/>
+
+  <!-- Inner Dark Shield Core -->
+  <path
+      android:pathData="M60,20 L90,31 V55 C90,75 75,91 60,97 C45,91 30,75 30,55 V31 Z"
+      android:fillColor="#0B132B"/>
+
+  <!-- Cyber Lock & Shield Emblem -->
+  <!-- Lock Shackle -->
+  <path
+      android:pathData="M60,38 C53.4,38 48,43.4 48,50 V55 H52 V50 C52,45.6 55.6,42 60,42 C64.4,42 68,45.6 68,50 V55 H72 V50 C72,43.4 66.6,38 60,38 Z"
+      android:fillColor="#00F2FE"/>
+
+  <!-- Lock Body -->
+  <path
+      android:pathData="M44,55 H76 C79.3,55 82,57.7 82,61 V77 C82,80.3 79.3,83 76,83 H44 C40.7,83 38,80.3 38,77 V61 C38,57.7 40.7,55 44,55 Z"
+      android:fillColor="#00F2FE"/>
+
+  <!-- Keyhole Center -->
+  <path
+      android:pathData="M60,63 C58.3,63 57,64.3 57,66 C57,67.1 57.6,68.1 58.5,68.6 L56,75 H64 L61.5,68.6 C62.4,68.1 63,67.1 63,66 C63,64.3 61.7,63 60,63 Z"
+      android:fillColor="#0B132B"/>
+
+  <!-- Glowing AI Star Accents -->
+  <path
+      android:pathData="M60,26 L61.5,30 L65.5,31.5 L61.5,33 L60,37 L58.5,33 L54.5,31.5 L58.5,30 Z"
+      android:fillColor="#10B981"/>
+
+</vector>
